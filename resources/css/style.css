@@ -77,3 +77,34 @@ li a:hover {
   margin: 0px auto;
   padding: 3rem;
 }
+
+img {
+  display: block;
+  height: 50vh;
+  width: 95%;
+}
+.projects p {
+  background-color: #293045;
+  width: 95%;
+  color: white;
+  padding: 1.5rem;
+}
+.tag {
+  color: #293045;
+  transition: 400ms ease;
+}
+.projects:hover .tag {
+  color: orangered;
+}
+.btn {
+  display: block;
+  width: 8rem;
+  background-color: #293045;
+  padding: 1rem;
+  margin: 0 auto;
+  color: white;
+  transition: 400ms ease;
+}
+.btn:hover {
+  background-color: #be3144;
+}
