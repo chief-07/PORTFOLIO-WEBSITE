@@ -55,3 +55,17 @@ li a:hover {
   font-style: italic;
   color: red;
 }
+
+#projects {
+  background-color: #45567d;
+  text-align: center;
+}
+#projects h2 {
+  font-size: 3rem;
+  text-align: center;
+  color: white;
+  border-bottom: 2px solid white;
+  margin: 0 auto 6rem auto;
+  width: 800px;
+  padding-top: 2rem;
+}
