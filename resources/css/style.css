@@ -19,3 +19,17 @@ header {
   width: 100vw;
   border-bottom: 2px solid rgb(0, 0, 0);
 }
+ul {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+li a {
+  color: white;
+  display: inline-block;
+  padding: 2rem;
+  font-size: 2.2rem;
+}
+li a:hover {
+  background-color: blue;
+}
