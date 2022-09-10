@@ -137,3 +137,22 @@ img {
 }
 #work a:hover {
 }
+
+footer {
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+  background-color: #303841;
+  border-top: 4px solid red;
+  color: white;
+  text-align: center;
+  height: 20vh;
+}
+footer .fake {
+  margin-right: 15rem;
+}
+footer p {
+  display: inline;
+  font-weight: bolder;
+}
