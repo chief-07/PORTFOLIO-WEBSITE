@@ -13,3 +13,9 @@
 body {
   font-family: "poppins", sans-serif;
 }
+header {
+  background-color: #be3144;
+  position: fixed;
+  width: 100vw;
+  border-bottom: 2px solid rgb(0, 0, 0);
+}
