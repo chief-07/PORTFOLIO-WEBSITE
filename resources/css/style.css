@@ -33,3 +33,25 @@ li a {
 li a:hover {
   background-color: blue;
 }
+
+#intro {
+  color: white;
+  height: 100vh;
+  background-color: black;
+  /* background-image: ; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#intro h1 {
+  color: white;
+  font-weight: 700;
+  font-size: 4.2rem;
+}
+#intro p {
+  font-size: 2rem;
+  font-weight: 200;
+  font-style: italic;
+  color: red;
+}
