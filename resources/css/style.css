@@ -108,3 +108,32 @@ img {
 .btn:hover {
   background-color: #be3144;
 }
+#work {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  background-color: #303841;
+}
+#work h2 {
+  color: white;
+  font-weight: 700;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+#work p {
+  font-style: italic;
+  color: white;
+  margin-bottom: 2rem;
+}
+#work a {
+  margin-right: 1rem;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-shadow: 2px 3px black;
+}
+#work a:hover {
+}
